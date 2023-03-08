@@ -10,7 +10,7 @@ object Versions {
   val log4catsVersion   = "2.5.0"
   val redis4catsVersion = "1.4.0"
   // val newTypeVersion = "0.4.4"
-  val circeVersion      = "0.14.4"
+  val circeVersion      = "0.14.5"
   val munitVersion      = "0.7.29"
   val slf4jVersion      = "2.0.6"
 
